@@ -1,8 +1,8 @@
 # BML-LCA
 LCA 2 
 # Naive-bayes-adult-dataset
-Name: Mohammed Rehan Mushahid Ansari
-PRN: 1032232128
+Name: ibrahim abdul jalil khache
+PRN: 1032231321
 cse b TY
 
 42. Train the system using Adult data set obtained from UCI ML repository, determine accuracy using Naive Bayes classifier
